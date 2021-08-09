@@ -1,0 +1,8 @@
+.BallPlayer-score {
+    font-family: 'Raleway Dots', cursive;
+    background:#000;
+    color:red;
+    font-size:154px;
+    padding:20px 25px;
+    margin-bottom:20px;
+}
